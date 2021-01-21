@@ -1,1 +1,1 @@
-web: gunicorn wine:app
+web: gunicorn restaurants:app
